@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+umap-learn  # If using UMAP
